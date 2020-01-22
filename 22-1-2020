@@ -1,10 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
+  
   <head>
-    	<meta charset="UTF-8">
-   		<title>Lojinha da Família Marques</title>
+    
+    <meta charset="UTF-8">
+    <meta name="author" content="lzgandini">
+    <meta name="description" content="Espaço de venda de itens usados">
+   	<title>Lojinha da Família Marques</title>
+    <link rel="favicon" href="cosmeticos.jpg">	
+    		<!-- inserir imagem de favicon -->
+    
   </head>
+  
   <body>
-    	<h1>Lojinha da Família Marques</h1>
+    
+    <h1>Lojinha da Família Marques</h1>
+    <p>Gostou de algum item? É só clicar para ver mais!</p>
+    <ul>
+      <li>Roupas</li>
+      <li>Jogos</li>
+      <li>Móveis</li>
+      <li>Bebê</li>
+      <li>Outros</li>
+    </ul>
+    
   </body>
+
 </html>
