@@ -25,7 +25,7 @@
       <li>Outros</li>
     </ul>
     
-    <p> Endereço para retirada<p>
+    <h3> Endereço para retirada</h3>
     <adress>
       <dl>
         <dd>Rua Cândido Benício, 1671</dd>
@@ -33,6 +33,25 @@
         <dd>Rio de Janeiro/RJ</dd>
       </dl>
     </adress>
+    
+    <h3>Datas possíveis para retirada</h3>
+    <!-- inserir hyperlink -->
+    <dl>
+      <dd><time datetime="2020-01-31">31 de Janeiro de 2020</time>
+      	<dl>
+          <dd><time datetime="19:00">19:00</time>
+          <dd><time datetime="19:00">20:00</time>
+          <dd><time datetime="21:00">21:00</time>
+        </dl>      
+      </dd>
+      <dd><time datetime="2020-01-31">01 de Fevereiro de 2020</time>
+      	<dl>
+          <dd><time datetime="19:00">19:00</time>
+          <dd><time datetime="19:00">20:00</time>
+          <dd><time datetime="21:00">21:00</time>
+        </dl>       
+      </dd>
+    </dl>
   </body>
 
 </html>
