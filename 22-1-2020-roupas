@@ -18,7 +18,17 @@
     <p>Roupas usadas</p>
     <ol>
       <li>Masculino</li>
+      <ul>
+        <li>Bermudas</li>
+        <li>Camisas</li>
+        <li>Calças</li>
+      </ul>
       <li>Feminino</li>
+      <ul>
+        <li> Blusas</li>
+        <li>Saias</li>
+        <li>Vestidos</li>
+        <li>Calças</li>
     </ol>
     
   </body>
