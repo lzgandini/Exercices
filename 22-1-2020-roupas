@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="author" content="lzgandini">
+    <meta name="description" content="Espaço de venda de roupas usadas">
+   	<title>Lojinha da Família Marques</title>
+    <link rel="favicon" href="cosmeticos.jpg">	
+    		<!-- inserir imagem de favicon -->
+    
+  </head>
+  
+  <body>
+    
+    <h1>Lojinha da Família Marques</h1>
+    <p>Roupas usadas</p>
+    <ol>
+      <li>Masculino</li>
+      <li>Feminino</li>
+    </ol>
+    
+  </body>
+
+</html>
