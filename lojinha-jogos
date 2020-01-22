@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="author" content="lzgandini">
+    <meta name="description" content="Espaço de venda de jogos usados">
+   	<title>Lojinha da Família Marques</title>
+    <link rel="favicon" href="cosmeticos.jpg">	
+    		<!-- inserir imagem de favicon -->
+    
+  </head>
+  
+  <body>
+    
+    <h1>Lojinha da Família Marques</h1>
+    <p>Jogos usados</p>
+    <ol>
+      <li>XBox</li>
+      <li>3DS</li>
+      <li>Tabuleiro</li>
+      <li>RPG</li>
+    </ol>
+    
+  </body>
+
+</html>
