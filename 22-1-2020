@@ -16,6 +16,7 @@
     
     <h1>Lojinha da <i>Família Marques</i></h1>
     <p>Gostou de algum item? É só clicar para ver mais!</p>
+    
     <ul>
       		<!-- inserir hyperlink (artigo 4)-->
       <li>Roupas</li>
@@ -24,6 +25,7 @@
       <li>Bebê</li>
       <li>Outros</li>
     </ul>
+
     
     <h3> Endereço para retirada</h3>
     <adress>
@@ -38,6 +40,23 @@
     <!-- inserir hyperlink -->
     <dl>
       <dd><time datetime="2020-01-31">31 de Janeiro de 2020</time>
+      	<dl>
+          <dd><time datetime="19:00">19:00</time>
+          <dd><time datetime="19:00">20:00</time>
+          <dd><time datetime="21:00">21:00</time>
+        </dl>      
+      </dd>
+      <dd><time datetime="2020-01-31">01 de Fevereiro de 2020</time>
+      	<dl>
+          <dd><time datetime="19:00">19:00</time>
+          <dd><time datetime="19:00">20:00</time>
+          <dd><time datetime="21:00">21:00</time>
+        </dl>       
+      </dd>
+    </dl>
+  </body>
+
+</html>
       	<dl>
           <dd><time datetime="19:00">19:00</time>
           <dd><time datetime="19:00">20:00</time>
