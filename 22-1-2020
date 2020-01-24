@@ -11,13 +11,16 @@
     		<!-- inserir imagem de favicon (artigo 2) -->
     
   </head>
-  
+    
   <body>
-    
-    <h1>Lojinha da <i>Família Marques</i></h1>
-    <p>Gostou de algum item? É só clicar para ver mais!</p>
-    
-    <ul>
+   
+  <header>
+     <h1>Lojinha da <i>Família Marques</i></h1>    
+  </header>
+  
+	<nav>
+      <!-- arrumar barra de navegação -->
+      <ul>
       		<!-- inserir hyperlink (artigo 4)-->
       <li>Roupas</li>
       <li>Jogos</li>
@@ -25,7 +28,10 @@
       <li>Bebê</li>
       <li>Outros</li>
     </ul>
-
+  </nav>
+    
+   <main> 
+    <p>Gostou de algum item? É só clicar para ver mais!</p>
     
     <h3> Endereço para retirada</h3>
     <adress>
@@ -54,23 +60,12 @@
         </dl>       
       </dd>
     </dl>
+    </main>
+    
+    <footer>
+      <p>©Copyright 2020 by nobody. All rights reversed.</p>
+    </footer>
   </body>
 
 </html>
-      	<dl>
-          <dd><time datetime="19:00">19:00</time>
-          <dd><time datetime="19:00">20:00</time>
-          <dd><time datetime="21:00">21:00</time>
-        </dl>      
-      </dd>
-      <dd><time datetime="2020-01-31">01 de Fevereiro de 2020</time>
-      	<dl>
-          <dd><time datetime="19:00">19:00</time>
-          <dd><time datetime="19:00">20:00</time>
-          <dd><time datetime="21:00">21:00</time>
-        </dl>       
-      </dd>
-    </dl>
-  </body>
 
-</html>
