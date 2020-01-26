@@ -14,58 +14,58 @@
     
   <body>
    
-  <header>
-     <h1>Lojinha da <i>Família Marques</i></h1>    
-  </header>
-  
+    <header>
+       	<h1>Lojinha da <i>Família Marques</i></h1>    
+    </header>
+
 	<nav>
       <!-- arrumar barra de navegação -->
-      <ul>
-      		<!-- inserir hyperlink (artigo 4)-->
-      <li>Roupas</li>
-      <li>Jogos</li>
-      <li>Móveis</li>
-      <li>Bebê</li>
-      <li>Outros</li>
-    </ul>
-  </nav>
+        <ul>
+              <!-- inserir hyperlink (artigo 4)-->
+          <li>Roupas</li>
+          <li>Jogos</li>
+          <li>Móveis</li>
+          <li>Bebê</li>
+          <li>Outros</li>
+      </ul>
+  	</nav>
     
-   <main> 
-    <p>Gostou de algum item? É só clicar para ver mais!</p>
-    
-    <h3> Endereço para retirada</h3>
-    <adress>
-      <dl>
-        <dd>Rua Cândido Benício, 1671</dd>
-        <dd>Praça Seca</dd>
-        <dd>Rio de Janeiro/RJ</dd>
-      </dl>
-    </adress>
-    
-    <h3>Datas possíveis para retirada</h3>
-    <!-- inserir hyperlink -->
-    <dl>
-      <dd><time datetime="2020-01-31">31 de Janeiro de 2020</time>
-      	<dl>
-          <dd><time datetime="19:00">19:00</time>
-          <dd><time datetime="19:00">20:00</time>
-          <dd><time datetime="21:00">21:00</time>
-        </dl>      
-      </dd>
-      <dd><time datetime="2020-01-31">01 de Fevereiro de 2020</time>
-      	<dl>
-          <dd><time datetime="19:00">19:00</time>
-          <dd><time datetime="19:00">20:00</time>
-          <dd><time datetime="21:00">21:00</time>
-        </dl>       
-      </dd>
-    </dl>
-    </main>
+     <main> 
+        <p>Gostou de algum item? É só clicar para ver mais!</p>
+
+        <h3> Endereço para retirada</h3>
+        <adress>
+            <dl>
+                <dd>Rua Cândido Benício, 1671</dd>
+                <dd>Praça Seca</dd>
+                <dd>Rio de Janeiro/RJ</dd>
+            </dl>
+        </adress>
+
+        <h3>Datas possíveis para retirada</h3>
+        <!-- inserir hyperlink -->
+        <dl>
+              <dd><time datetime="2020-01-31">31 de Janeiro de 2020</time>
+                  <dl>
+                      <dd><time datetime="19:00">19:00</time>
+                      <dd><time datetime="19:00">20:00</time>
+                      <dd><time datetime="21:00">21:00</time>
+                  </dl>      
+              </dd>
+              <dd><time datetime="2020-01-31">01 de Fevereiro de 2020</time>
+                  <dl>
+                      <dd><time datetime="19:00">19:00</time>
+                      <dd><time datetime="19:00">20:00</time>
+                      <dd><time datetime="21:00">21:00</time>
+                  </dl>       
+              </dd>
+        </dl>
+      </main>
     
     <footer>
-      <p>©Copyright 2020 by nobody. All rights reversed.</p>
+      <p>©Copyright 2020 by lzgandini. All rights reversed.</p>
     </footer>
+    
   </body>
 
 </html>
-
