@@ -7,7 +7,7 @@
     <meta name="author" content="lzgandini">
     <meta name="description" content="Espaço de venda de itens usados">
    	<title>Lojinha da Família Marques</title>
-    <link rel="favicon" href="cosmeticos.jpg">	
+    <link rel="favicon" href="downloads/cosmeticos.jpg">	
     		<!-- inserir imagem de favicon (artigo 2) -->
     
   </head>
@@ -20,18 +20,19 @@
 
 	<nav>
       <!-- arrumar barra de navegação -->
-        <ul>
+        <dl>
               <!-- inserir hyperlink (artigo 4)-->
-          <li>Roupas</li>
-          <li>Jogos</li>
-          <li>Móveis</li>
-          <li>Bebê</li>
-          <li>Outros</li>
-      </ul>
+          <dd>Roupas</dd>
+          <dd>Jogos</dd>
+          <dd>Móveis</dd>
+          <dd>Bebê</dd>
+          <dd>Outros</dd>
+      </dl>
   	</nav>
     
      <main> 
         <p>Gostou de algum item? É só clicar para ver mais!</p>
+       <!-- treinar imagens -->
 
         <h3> Endereço para retirada</h3>
         <adress>
@@ -63,7 +64,7 @@
       </main>
     
     <footer>
-      <p>©Copyright 2020 by lzgandini. All rights reversed.</p>
+      <p><br>©Copyright 2020 by lzgandini. All rights reversed.</p>
     </footer>
     
   </body>
